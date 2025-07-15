@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb391a59-5994-474b-8764-99c9aca4af8f" /># LocalGuide-Inflation
+# LocalGuide-Inflation
 Analyzing Global Inflation Trends and Economic Stability : A Multi-Indicator Classification Approach
 Project Overview : The Capstone Project Title is "Analyzing Global Inflation Trends and Economic Stability: A Multi-Indicator Classification Approach." The Problem Statement highlights that global economic stability is a critical concern, with inflation serving as a key indicator of economic health and significantly influencing policy decisions. Understanding the drivers and patterns of inflation across various countries, alongside other macroeconomic variables, is essential for forecasting economic performance and identifying potential stability risks.
 Raw dataset link : https://www.kaggle.com/datasets/tanishksharma9905/global-economic-indicators-20102025 
